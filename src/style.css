@@ -1,0 +1,17 @@
+body {
+  background: #9999994d;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+.list-group-item {
+  border: 1px solid purple;
+}
+
+.list-group-item.active {
+  color: blue;
+  border-color: greenyellow;
+}
